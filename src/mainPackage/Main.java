@@ -16,7 +16,7 @@ public class Main {
 		while (running) {
 			UI.clearScreen();
 			UI.mainMenu(bank, user);
-			// teste
+			// teste 2
 			
 			int menuChoice = scan.nextInt();
 			scan.nextLine();
